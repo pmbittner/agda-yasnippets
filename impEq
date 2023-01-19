@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: import-eq
-# key: /impeq
+# name: import propositional equality
+# key: impEq
 # --
 import Relation.Binary.PropositionalEquality as Eq
 open Eq
