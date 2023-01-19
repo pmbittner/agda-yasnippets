@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: import-eq
+# key: /impeq
+# --
+import Relation.Binary.PropositionalEquality as Eq
+open Eq
+  using (_≡_; refl)
